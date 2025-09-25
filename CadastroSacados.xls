@@ -1,0 +1,1596 @@
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+        <HTML>
+            <HEAD>
+                <TITLE></TITLE>
+                <meta charset="iso-8859-1">
+                <META NAME="AUTHOR" CONTENT="admin">
+                <META NAME="CREATED" CONTENT="20080805;10291500">
+                <META NAME="CHANGEDBY" CONTENT="admin">
+                <META NAME="CHANGED" CONTENT="20080818;10194200">
+                <STYLE TYPE="text/css">
+                    body {
+                        background: none;
+                    }
+
+                    td {
+                        white-space: nowrap;
+                    }
+
+                    .text{
+                        mso-number-format:"\@";/*force text*/
+                    }
+
+                    .x-date {
+                        mso-number-format: 'Short Date';
+                        text-align: right;
+                    }
+
+                    .number {
+                        mso-number-format: 'General';
+                        text-align: right;
+                    }
+
+                    .center {
+                        text-align: center;
+                    }
+
+                    .right {
+                        text-align: right;
+                    }
+                </STYLE>
+            </HEAD>
+            <BODY>
+                            <TABLE>
+                <TR>
+                    <TD><B>ID</B></TD>
+                    <TD><B>NOME</B></TD>
+                    <TD><B>CPF/CNPJ</B></TD>
+                    <TD><B>ENDEREÇO</B></TD>
+                    <TD><B>CEP</B></TD>
+                    <TD><B>CIDADE</B></TD>
+                    <TD><B>UF</B></TD>
+                    <TD><B>EMAIL</B></TD>
+                    <TD><B>TELEFONE</B></TD>
+                    <TD><B>SMS</B></TD>
+                    <TD><B>DATA DE CADASTRO</B></TD>
+                </TR>
+                                    <TR>
+                        <TD CLASS="text">60665</TD>
+                        <TD CLASS="text">01.684.981 LINDIANE FAUSTINO DOS SANTOS</TD>
+                        <TD CLASS="text">01.684.981/0001-04</TD>
+                        <TD CLASS="text">AVENIDA SAMPAIO          CENTRO    103 F, , Centro, </TD>
+                        <TD CLASS="text">44001-575</TD>
+                        <TD CLASS="text">Feira de Santana</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60739</TD>
+                        <TD CLASS="text">39.334.906 FABIO DOS SANTOS SILVA</TD>
+                        <TD CLASS="text">39.334.906/0001-88</TD>
+                        <TD CLASS="text">RUA ALBATROZ-REAL,, 405, , Jardim Pinheirinho, </TD>
+                        <TD CLASS="text">05215-102</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60657</TD>
+                        <TD CLASS="text">40.910.920 AMANDA QUEIROZ BISPO RODRIGUE</TD>
+                        <TD CLASS="text">40.910.920/0001-61</TD>
+                        <TD CLASS="text">RUA DA MATA              ALTO DA PI04  M, , Centro, </TD>
+                        <TD CLASS="text">46500-000</TD>
+                        <TD CLASS="text">Macaúbas</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60661</TD>
+                        <TD CLASS="text">43571885 TAINAR SIDRAL OLIVEIRA DE JES</TD>
+                        <TD CLASS="text">43.571.885/0001-91</TD>
+                        <TD CLASS="text">RUA DO FLAMINGO, S/N, , CENTRO, JAUÁ (ABRANTES)</TD>
+                        <TD CLASS="text">42828-990</TD>
+                        <TD CLASS="text">Camaçari</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60720</TD>
+                        <TD CLASS="text">51.006.837 PATRICIO DOS SANTOS FILH</TD>
+                        <TD CLASS="text">51.006.837/0001-89</TD>
+                        <TD CLASS="text">RUA ORBITA, 643, , Chácara do Solar II (Fazendinh, </TD>
+                        <TD CLASS="text">06531-095</TD>
+                        <TD CLASS="text">Santana de Parnaíba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60641</TD>
+                        <TD CLASS="text">54649122 FELIPE LOPES DOS SANTOS</TD>
+                        <TD CLASS="text">54.649.122/0001-32</TD>
+                        <TD CLASS="text">RUA DIRETA DO MANGUE SECOENCARNAIIO0   S, , Centro, </TD>
+                        <TD CLASS="text">44450-000</TD>
+                        <TD CLASS="text">Salinas da Margarida</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60663</TD>
+                        <TD CLASS="text">56916903 MARIA DE FATIMA DE ASSIS SOUZ</TD>
+                        <TD CLASS="text">56.916.903/0001-71</TD>
+                        <TD CLASS="text">VIA CASTELO BRANCO       CASTELO BR211 S, , Castelo Branco, </TD>
+                        <TD CLASS="text">41320-717</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60647</TD>
+                        <TD CLASS="text">58.161.190 VAGNER DOS SANTOS MEDRADO</TD>
+                        <TD CLASS="text">58.161.190/0001-09</TD>
+                        <TD CLASS="text">10A RUA EDNA VIEIRA REZENDEMOCRACIA53  I, , Centro, </TD>
+                        <TD CLASS="text">45570-000</TD>
+                        <TD CLASS="text">Ipiaú</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60649</TD>
+                        <TD CLASS="text">58283452 DOUGLAS OLIVEIRA RODRIGUES</TD>
+                        <TD CLASS="text">58.283.452/0001-08</TD>
+                        <TD CLASS="text">PRIA SAO JOAO BATISTA    CENTRO    205 U, , Centro, </TD>
+                        <TD CLASS="text">48950-000</TD>
+                        <TD CLASS="text">Uauá</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60624</TD>
+                        <TD CLASS="text">59.187.918 PAULO SERGIO MOURA</TD>
+                        <TD CLASS="text">59.187.918/0001-34</TD>
+                        <TD CLASS="text">RUA VICENTE PAULALIMA, 1343, SEM BAIRRO, B</TD>
+                        <TD CLASS="text">14150-000</TD>
+                        <TD CLASS="text">Serrana</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">Uzuellemarcela@gmail.com</TD>
+                        <TD CLASS="text">(16) 99158-6281</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60670</TD>
+                        <TD CLASS="text">62.524.318 FABIOLA RIBEIRO BRITO</TD>
+                        <TD CLASS="text">62.524.318/0001-29</TD>
+                        <TD CLASS="text">RUA S?O JOSE             CENTRO    18  C, , Centro, </TD>
+                        <TD CLASS="text">44250-000</TD>
+                        <TD CLASS="text">Coração de Maria</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60656</TD>
+                        <TD CLASS="text">62.617.961 JOAO PEREIRA DA PAIXAO</TD>
+                        <TD CLASS="text">62.617.961/0001-05</TD>
+                        <TD CLASS="text">RUA SAO JOSE             CENTRO    3   R, , Centro, </TD>
+                        <TD CLASS="text">44520-000</TD>
+                        <TD CLASS="text">Rafael Jambeiro</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60652</TD>
+                        <TD CLASS="text">ADRIANA ALVES DE SOUZA</TD>
+                        <TD CLASS="text">20.146.782/0001-89</TD>
+                        <TD CLASS="text">RUA AUGUSTO DE MATOS     AGUADA NOV46  L, , Centro, </TD>
+                        <TD CLASS="text">44905-000</TD>
+                        <TD CLASS="text">Lapão</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60636</TD>
+                        <TD CLASS="text">ADSON BOAVENTURA DE OLIVEIRA LTDA</TD>
+                        <TD CLASS="text">03.158.413/0001-97</TD>
+                        <TD CLASS="text">RUA GEDEAO VAZ SAMPAIO   VILA PROGR274 R, , Centro, </TD>
+                        <TD CLASS="text">46800-000</TD>
+                        <TD CLASS="text">Ruy Barbosa</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60734</TD>
+                        <TD CLASS="text">ALEXANDRE GONZAGA DE OLIVEIRA</TD>
+                        <TD CLASS="text">47.219.257/0001-00</TD>
+                        <TD CLASS="text">R GUILHERME HOEPPNER, 62, , Jardim Caxambu, </TD>
+                        <TD CLASS="text">13425-060</TD>
+                        <TD CLASS="text">Piracicaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60701</TD>
+                        <TD CLASS="text">AMBIENTAR DECORACOES LTDA</TD>
+                        <TD CLASS="text">91.281.386/0001-02</TD>
+                        <TD CLASS="text">RUA MARECHAL DEODORO, 1335, CENTRO, </TD>
+                        <TD CLASS="text">97700-000</TD>
+                        <TD CLASS="text">Santiago</TD>
+                        <TD CLASS="text">RS</TD>
+                        <TD CLASS="text">ambientar@ambientarhomecenter.com.br</TD>
+                        <TD CLASS="text">(55) 99976-0533</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60635</TD>
+                        <TD CLASS="text">ANDRE BOMFIM DE CARVALHO COMERCIO E DIST</TD>
+                        <TD CLASS="text">26.294.401/0001-95</TD>
+                        <TD CLASS="text">R RIO GRANDE DO SUL      SIQUEIRA C306 A, , Siqueira Campos, </TD>
+                        <TD CLASS="text">49075-510</TD>
+                        <TD CLASS="text">Aracaju</TD>
+                        <TD CLASS="text">SE</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60668</TD>
+                        <TD CLASS="text">ANTONIO VELFE LIMA SANTOS JUNIOR</TD>
+                        <TD CLASS="text">26.510.561/0001-24</TD>
+                        <TD CLASS="text">RUA E                    MANOEL ANT1   R, , Centro, </TD>
+                        <TD CLASS="text">46800-000</TD>
+                        <TD CLASS="text">Ruy Barbosa</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60645</TD>
+                        <TD CLASS="text">ARTUR MARQUES DE OLIVEIRA DE PARAMIRIM</TD>
+                        <TD CLASS="text">04.399.378/0001-60</TD>
+                        <TD CLASS="text">AVENIDA BOTUPORI         CENTRO    667 P, , Centro, </TD>
+                        <TD CLASS="text">46190-000</TD>
+                        <TD CLASS="text">Paramirim</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60704</TD>
+                        <TD CLASS="text">ASTRO REI 32 - DISTRIBUIDORA DE FER</TD>
+                        <TD CLASS="text">04.537.062/0001-98</TD>
+                        <TD CLASS="text">RODOVIA ERNANI DO AMARAL PEIXOTO, KM, , Itapeba, </TD>
+                        <TD CLASS="text">24912-710</TD>
+                        <TD CLASS="text">Maricá</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60628</TD>
+                        <TD CLASS="text">BARBOSA MINERALS LTDA</TD>
+                        <TD CLASS="text">39.929.521/0001-63</TD>
+                        <TD CLASS="text">R SEBASTIAO CANDIDO, 42, CIDADE NOVA DE MATEUS LEME, </TD>
+                        <TD CLASS="text">35675-000</TD>
+                        <TD CLASS="text">Juatuba</TD>
+                        <TD CLASS="text">MG</TD>
+                        <TD CLASS="text">contato@barbosaminerals.com.br; warley.santos@barbosaminerals.com.br</TD>
+                        <TD CLASS="text">(31) 99234-5804</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60703</TD>
+                        <TD CLASS="text">BRASFER - COMERCIAL DE ACO LTDA</TD>
+                        <TD CLASS="text">09.282.513/0001-07</TD>
+                        <TD CLASS="text">RUA ALVARO GONCALVES, 116 B, , Bairro de Fátima (Califórnia d, </TD>
+                        <TD CLASS="text">27164-065</TD>
+                        <TD CLASS="text">Barra do Piraí</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60689</TD>
+                        <TD CLASS="text">C C F CAMPOS DROGARIA - ME</TD>
+                        <TD CLASS="text">37.489.328/0001-23</TD>
+                        <TD CLASS="text">RUA R ALEXANDRE FAVERO, '3-77 3-77  VILA, , Vila Jardim Celina, </TD>
+                        <TD CLASS="text">17055-050</TD>
+                        <TD CLASS="text">Bauru</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60680</TD>
+                        <TD CLASS="text">CALTEC QUIMICA INDUSTRIAL S/A</TD>
+                        <TD CLASS="text">03.713.592/0001-87</TD>
+                        <TD CLASS="text">AV AGRIMENSOR GILDO PINHEIRO DA LUZ, 569, SAO JOAO, </TD>
+                        <TD CLASS="text">83566-520</TD>
+                        <TD CLASS="text">Itaperuçu</TD>
+                        <TD CLASS="text">PR</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(41) 3603-8035</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60730</TD>
+                        <TD CLASS="text">CARROCERIAS BUORO EIRELI</TD>
+                        <TD CLASS="text">61.399.655/0001-79</TD>
+                        <TD CLASS="text">AVENIDA CARLOS FERREIRA ENDRES, 310, , Vila Endres, </TD>
+                        <TD CLASS="text">07041-030</TD>
+                        <TD CLASS="text">Guarulhos</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60638</TD>
+                        <TD CLASS="text">CENTRO DOS COSMETICOS BRITO LTDA</TD>
+                        <TD CLASS="text">22.004.760/0001-00</TD>
+                        <TD CLASS="text">AV CORONEL TIBERIO MEIRA CENTRO    312 B, , Centro, </TD>
+                        <TD CLASS="text">46100-137</TD>
+                        <TD CLASS="text">Brumado</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60631</TD>
+                        <TD CLASS="text">CHERUBES DO BRASIL LTDA</TD>
+                        <TD CLASS="text">37.837.514/0001-06</TD>
+                        <TD CLASS="text">RUA FULGENCIO FERREIRA NEVES, 263, COLISEU, BRCAO 04</TD>
+                        <TD CLASS="text">86076-010</TD>
+                        <TD CLASS="text">Londrina</TD>
+                        <TD CLASS="text">PR</TD>
+                        <TD CLASS="text">contato@cherubes.com.br</TD>
+                        <TD CLASS="text">(43) 9824-5732</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60640</TD>
+                        <TD CLASS="text">CIDA BAHIANO DA SILVA REGO</TD>
+                        <TD CLASS="text">58.819.278/0001-75</TD>
+                        <TD CLASS="text">RUA DA JAQUEIRA          GAMELEIRA 50  V, , Centro, </TD>
+                        <TD CLASS="text">44470-000</TD>
+                        <TD CLASS="text">Vera Cruz</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60676</TD>
+                        <TD CLASS="text">CIRO BARBOSA DOS SANTOS</TD>
+                        <TD CLASS="text">34.218.511/0004-49</TD>
+                        <TD CLASS="text">R GOVERNADOR GONCALVES   CENTRO    178 V, , Centro, </TD>
+                        <TD CLASS="text">45400-000</TD>
+                        <TD CLASS="text">Valença</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60669</TD>
+                        <TD CLASS="text">CLEMENS JUNIOR ALMEIDA MACIEL</TD>
+                        <TD CLASS="text">25.309.979/0001-05</TD>
+                        <TD CLASS="text">AVENIDA CENTRAL          CENTRO    267 C, , Centro, </TD>
+                        <TD CLASS="text">44940-000</TD>
+                        <TD CLASS="text">Central</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60659</TD>
+                        <TD CLASS="text">COMERCIAL DE ALIMENTOS GILMAR LTDA</TD>
+                        <TD CLASS="text">05.466.724/0001-49</TD>
+                        <TD CLASS="text">RUA JORGE NOVIS          VILA LAURA0001S, , Vila Laura, </TD>
+                        <TD CLASS="text">40270-370</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60660</TD>
+                        <TD CLASS="text">COMERCIAL DE ALIMENTOS MALUCAS LTDA</TD>
+                        <TD CLASS="text">53.024.424/0001-52</TD>
+                        <TD CLASS="text">R OTAVIANO PEREIRA DOS SACENTRO    145 C, , Centro, </TD>
+                        <TD CLASS="text">47650-000</TD>
+                        <TD CLASS="text">Correntina</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60646</TD>
+                        <TD CLASS="text">COMERCIAL DE ALIMENTOS MMM LTDA</TD>
+                        <TD CLASS="text">54.038.657/0001-77</TD>
+                        <TD CLASS="text">RUA ADOLFO BATISTA DA SILDEOCLECIAN154 C, , Centro, </TD>
+                        <TD CLASS="text">47650-000</TD>
+                        <TD CLASS="text">Correntina</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60708</TD>
+                        <TD CLASS="text">COMFERR INDUSTRIA E COMERCIO LTDA</TD>
+                        <TD CLASS="text">46.081.963/0001-68</TD>
+                        <TD CLASS="text">RODOVIA RIO SAO PAULO BR 465, 0, , Fazenda Caxias, </TD>
+                        <TD CLASS="text">23895-000</TD>
+                        <TD CLASS="text">Seropédica</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60691</TD>
+                        <TD CLASS="text">CRISTIANO MOREIRA DA SILVA 97768928687</TD>
+                        <TD CLASS="text">45.275.699/0001-30</TD>
+                        <TD CLASS="text">RUA R ANTONIO EUSTAQUIO PIAZZA 2965  TIR, , Tirol (Barreiro), </TD>
+                        <TD CLASS="text">30662-050</TD>
+                        <TD CLASS="text">Belo Horizonte</TD>
+                        <TD CLASS="text">MG</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60629</TD>
+                        <TD CLASS="text">CULTIVAR AGRO PECAS E SERVICOS LTDA</TD>
+                        <TD CLASS="text">12.026.869/0001-94</TD>
+                        <TD CLASS="text">AV GOVERNADOR LUIZ ROCHA, 20, SANTO AMARO, </TD>
+                        <TD CLASS="text">65800-000</TD>
+                        <TD CLASS="text">Balsas</TD>
+                        <TD CLASS="text">MA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(99) 8440-1163</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60683</TD>
+                        <TD CLASS="text">D A MEDEIROS BONELARIA</TD>
+                        <TD CLASS="text">34.390.019/0001-03</TD>
+                        <TD CLASS="text">RUA MAE AMALIA, 124, ., AMBR BEZERRA DE FARIA, </TD>
+                        <TD CLASS="text">59318-000</TD>
+                        <TD CLASS="text">Serra Negra do Norte</TD>
+                        <TD CLASS="text">RN</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(84) 99699-2561</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60729</TD>
+                        <TD CLASS="text">D. PASCHOALINO DE FILIPPO GAS LTDA</TD>
+                        <TD CLASS="text">05.749.088/0001-62</TD>
+                        <TD CLASS="text">AVENIDA ANITA BARRELLA, 1029, , Maracanã, </TD>
+                        <TD CLASS="text">11705-430</TD>
+                        <TD CLASS="text">Praia Grande</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60732</TD>
+                        <TD CLASS="text">DALLE EQUIPAMENTOS ELETRICOS LTDA</TD>
+                        <TD CLASS="text">09.076.952/0001-63</TD>
+                        <TD CLASS="text">FREGUESIA DE POIARES, 171, , Vila Carmosina, </TD>
+                        <TD CLASS="text">08290-440</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60679</TD>
+                        <TD CLASS="text">DAS NEVES TRANSPORTES LTDA</TD>
+                        <TD CLASS="text">02.057.102/0001-79</TD>
+                        <TD CLASS="text">VIA ANHAGUERA KM,320 SALA 02, s/n, ZONA RURAL, ANEXO AO DO TREVO</TD>
+                        <TD CLASS="text">14070-730</TD>
+                        <TD CLASS="text">Ribeirão Preto</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">nfe2@dasnevestransportes.com.br</TD>
+                        <TD CLASS="text">(16) 3615-0212</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60675</TD>
+                        <TD CLASS="text">DIONEY DE SANTANA OLIVEIRA</TD>
+                        <TD CLASS="text">34.323.293/0001-60</TD>
+                        <TD CLASS="text">RUA SAO FELIPE           CLELIA REB65  M, , Centro, </TD>
+                        <TD CLASS="text">45480-000</TD>
+                        <TD CLASS="text">Mutuípe</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60692</TD>
+                        <TD CLASS="text">DROGARIA NOSSA SENHORA APARECIDA ARACATU</TD>
+                        <TD CLASS="text">48.431.373/0001-43</TD>
+                        <TD CLASS="text">RUA R MARCILIO DIAS 1996  BOA VISTA ARAC, , Boa Vista, </TD>
+                        <TD CLASS="text">16074-150</TD>
+                        <TD CLASS="text">Araçatuba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60625</TD>
+                        <TD CLASS="text">DROGARIA UCHOAS II LTDA</TD>
+                        <TD CLASS="text">09.238.758/0001-37</TD>
+                        <TD CLASS="text">PC DOUTOR ARNOLFO DE AZEVEDO, 113, CENTRO, </TD>
+                        <TD CLASS="text">12600-210</TD>
+                        <TD CLASS="text">Lorena</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">nfe@farmauchoas.com.br</TD>
+                        <TD CLASS="text">(12) 98141-8456</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60623</TD>
+                        <TD CLASS="text">ECO FORTE BIOENERGIA LTDA</TD>
+                        <TD CLASS="text">13.096.055/0001-99</TD>
+                        <TD CLASS="text">Rod ALMINO MONTEIRO ALVARES AFFONSO, S/N, FAZENDA ORISSANGA, KM 16 - SALA 2</TD>
+                        <TD CLASS="text">13855-017</TD>
+                        <TD CLASS="text">Mogi Guaçu</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">contasapagar@grupoecoforte.com.br</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60634</TD>
+                        <TD CLASS="text">ECOFARMA LTDA</TD>
+                        <TD CLASS="text">59.331.072/0001-64</TD>
+                        <TD CLASS="text">AVENIDA DR TARCISIO DANIEFAROLANDIA152 A, , Farolândia, </TD>
+                        <TD CLASS="text">49030-290</TD>
+                        <TD CLASS="text">Aracaju</TD>
+                        <TD CLASS="text">SE</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60693</TD>
+                        <TD CLASS="text">EDUCATIVA MATERIAIS PEDAGOGICOS E ELETRONICOS LTDA</TD>
+                        <TD CLASS="text">19.726.055/0001-01</TD>
+                        <TD CLASS="text">RUA MARCELO FERREIRA ALBIERI, 295, PARQUE RESIDENCIAL VILA UNIAO, B A</TD>
+                        <TD CLASS="text">13060-737</TD>
+                        <TD CLASS="text">Campinas</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">educativamateriais@yahoo.com.br</TD>
+                        <TD CLASS="text">(19) 9732-1120</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60737</TD>
+                        <TD CLASS="text">EDUSA INDUSTRIAL DE ACOS LTDA</TD>
+                        <TD CLASS="text">67.565.093/0001-72</TD>
+                        <TD CLASS="text">AVENIDA POMPEIA, 1719, , Nova Pompéia, </TD>
+                        <TD CLASS="text">13425-620</TD>
+                        <TD CLASS="text">Piracicaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60633</TD>
+                        <TD CLASS="text">ELYS COMERCIO VAREJISTA DE COSMETICOS LT</TD>
+                        <TD CLASS="text">12.814.452/0001-96</TD>
+                        <TD CLASS="text">PRACA VER OSVALDO MENDONCBUGIO     30  A, , Bugio, </TD>
+                        <TD CLASS="text">49090-300</TD>
+                        <TD CLASS="text">Aracaju</TD>
+                        <TD CLASS="text">SE</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60650</TD>
+                        <TD CLASS="text">EMELLY MAYARA DA SILVA SOUSA</TD>
+                        <TD CLASS="text">35.056.032/0001-93</TD>
+                        <TD CLASS="text">RUA ANTINIO ALVES        POVOADO IT65  A, , Centro, </TD>
+                        <TD CLASS="text">48355-000</TD>
+                        <TD CLASS="text">Aporá</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60725</TD>
+                        <TD CLASS="text">EMPREENDIMENTOS IM CLUB BORDA DA MA</TD>
+                        <TD CLASS="text">49.763.356/0001-76</TD>
+                        <TD CLASS="text">AVENIDA JOAO PESSOA, 140, , Centro, </TD>
+                        <TD CLASS="text">13380-017</TD>
+                        <TD CLASS="text">Nova Odessa</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60699</TD>
+                        <TD CLASS="text">ESSENCIAL COMERCIO DE ROUPAS E BRINQUEDOS LTDA</TD>
+                        <TD CLASS="text">11.063.691/0001-99</TD>
+                        <TD CLASS="text">AV XV DE NOVEMBRO, 50, CENTRO, SALA 01</TD>
+                        <TD CLASS="text">89590-000</TD>
+                        <TD CLASS="text">Arroio Trinta</TD>
+                        <TD CLASS="text">SC</TD>
+                        <TD CLASS="text">essencialpapelariainf@hotmail.com</TD>
+                        <TD CLASS="text">(49) 3535-0261</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60673</TD>
+                        <TD CLASS="text">FARMACIA E DROGARIA JARDIM LTDA</TD>
+                        <TD CLASS="text">14.813.367/0001-39</TD>
+                        <TD CLASS="text">RUA SIMONE BARRADAS      JARDIM NOVS/N S, , Jardim Nova Esperança, </TD>
+                        <TD CLASS="text">41370-030</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60658</TD>
+                        <TD CLASS="text">FARMACIA FARMA  ALVES LTDA</TD>
+                        <TD CLASS="text">17.558.319/0001-30</TD>
+                        <TD CLASS="text">RUA SAO GONCALO          CENTRO    102 S, , Centro, </TD>
+                        <TD CLASS="text">47740-000</TD>
+                        <TD CLASS="text">Serra Dourada</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60655</TD>
+                        <TD CLASS="text">FELIZ COMERCIO E DISTRIBUICAO LTDA</TD>
+                        <TD CLASS="text">05.574.938/0001-39</TD>
+                        <TD CLASS="text">RUA ACRE                 CENTRO    787 S, , Centro, </TD>
+                        <TD CLASS="text">47630-000</TD>
+                        <TD CLASS="text">Serra do Ramalho</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60710</TD>
+                        <TD CLASS="text">FESACO COMERCIAL FERRO ACO LTDA</TD>
+                        <TD CLASS="text">65.639.296/0001-30</TD>
+                        <TD CLASS="text">R MARIA ANGELICA SOARES GOMES 31,, , Jardim Matarazzo, </TD>
+                        <TD CLASS="text">03813-090</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60685</TD>
+                        <TD CLASS="text">FREMACON COM DE TECIDOS LTDA</TD>
+                        <TD CLASS="text">76.679.935/0001-08</TD>
+                        <TD CLASS="text">RUA BLEY ZORNIG, 1581, ., BOQUEIRAO, </TD>
+                        <TD CLASS="text">81730-350</TD>
+                        <TD CLASS="text">Curitiba</TD>
+                        <TD CLASS="text">PR</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(41) 3286-4711</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60681</TD>
+                        <TD CLASS="text">FRIBON TRANSPORTES LTDA</TD>
+                        <TD CLASS="text">10.280.806/0005-68</TD>
+                        <TD CLASS="text">AV ENGENHEIRO PLINIO DE QUEIROZ, 70, JARDIM SAO MARCOS, SALA 04 BLOCO 02 ANEXO POSTO ALDO LOCATE</TD>
+                        <TD CLASS="text">11570-000</TD>
+                        <TD CLASS="text">Cubatão</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(66) 99645-4299</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60709</TD>
+                        <TD CLASS="text">GAVEA CONSTRUCAO E EMPREENDIMENTOS</TD>
+                        <TD CLASS="text">32.830.703/0001-33</TD>
+                        <TD CLASS="text">R TENENTE OLINTO TORRES, 80, , Centro, </TD>
+                        <TD CLASS="text">27475-000</TD>
+                        <TD CLASS="text">Rio Claro</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60622</TD>
+                        <TD CLASS="text">GEOFURO COMERCIO E SERVICOS LTDA</TD>
+                        <TD CLASS="text">02.136.187/0001-80</TD>
+                        <TD CLASS="text">Rua Luiz Antônio Padrão, 391/ 3, CIPAVA, </TD>
+                        <TD CLASS="text">06080-120</TD>
+                        <TD CLASS="text">Osasco</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">ADM@GEOFURO.COM.BR</TD>
+                        <TD CLASS="text">(11) 2284-5060</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60688</TD>
+                        <TD CLASS="text">GRAFICA EDITORA TAVARES LTDA</TD>
+                        <TD CLASS="text">23.453.418/0001-50</TD>
+                        <TD CLASS="text">RUA SENADOR MELO VIANA, 81, CENTRO, </TD>
+                        <TD CLASS="text">33600-000</TD>
+                        <TD CLASS="text">Pedro Leopoldo</TD>
+                        <TD CLASS="text">MG</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60713</TD>
+                        <TD CLASS="text">INDUSTRIA MAQ A N HORIZONTE LTDA</TD>
+                        <TD CLASS="text">45.737.822/0001-98</TD>
+                        <TD CLASS="text">AV DORIVAL FAVERI, 214, , Jardim do Lago, </TD>
+                        <TD CLASS="text">13481-604</TD>
+                        <TD CLASS="text">Limeira</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60637</TD>
+                        <TD CLASS="text">INGRID JAINE COMiRCIO DE PRODUTOS ALIM</TD>
+                        <TD CLASS="text">58.495.877/0001-80</TD>
+                        <TD CLASS="text">DISTRITO ITAMOTINGA      ITAMOTINGAS/N J, , Centro, </TD>
+                        <TD CLASS="text">48923-000</TD>
+                        <TD CLASS="text">Juazeiro</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60706</TD>
+                        <TD CLASS="text">J. A. F. ADM DE BENS EMP IMOBILIARI</TD>
+                        <TD CLASS="text">12.476.687/0001-15</TD>
+                        <TD CLASS="text">AV DAS AMERICAS, 17701, , Recreio dos Bandeirantes, </TD>
+                        <TD CLASS="text">22790-703</TD>
+                        <TD CLASS="text">Rio de Janeiro</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60674</TD>
+                        <TD CLASS="text">JEAN ROZENDO ANDRADE COMERCIO DE ALIMENT</TD>
+                        <TD CLASS="text">48.292.631/0001-58</TD>
+                        <TD CLASS="text">RUA JARDIM CAMPINAS      CAMPINAS D81  S, , Campinas de Pirajá, </TD>
+                        <TD CLASS="text">41275-132</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60651</TD>
+                        <TD CLASS="text">JL MERCADINHO LTDA</TD>
+                        <TD CLASS="text">03.102.596/0001-29</TD>
+                        <TD CLASS="text">LADEIRA DA TEREZINHA     ALTO DA TE16  S, , Alto da Terezinha, </TD>
+                        <TD CLASS="text">40711-060</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60672</TD>
+                        <TD CLASS="text">JOAO GONZAGA NASCIMENTO DE SOUZA</TD>
+                        <TD CLASS="text">57.197.092/0001-69</TD>
+                        <TD CLASS="text">RUA SAO ROQUE            TANCREDO N109 S, , Tancredo Neves, </TD>
+                        <TD CLASS="text">41207-210</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60717</TD>
+                        <TD CLASS="text">JOLAO MATERIAIS PARA CONSTRUCAO LTD</TD>
+                        <TD CLASS="text">00.872.833/0003-04</TD>
+                        <TD CLASS="text">AV MOACIR DA SILVEIRA, 1302, , Jardim Isaura, </TD>
+                        <TD CLASS="text">06516-050</TD>
+                        <TD CLASS="text">Santana de Parnaíba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60719</TD>
+                        <TD CLASS="text">JOSE GOMES DA SILVA FERRAGENS</TD>
+                        <TD CLASS="text">19.677.876/0001-03</TD>
+                        <TD CLASS="text">ESTR TEN JOSE MARIA DA CUNHA,, 280, , Jardim Record, </TD>
+                        <TD CLASS="text">06783-230</TD>
+                        <TD CLASS="text">Taboão da Serra</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60630</TD>
+                        <TD CLASS="text">JULIA S BUFFET FESTAS E EVENTOS LTDA</TD>
+                        <TD CLASS="text">27.908.898/0001-57</TD>
+                        <TD CLASS="text">AVENIDA SETE DE SETEMBRO, 2301, VILA AFFINI, SALA 4</TD>
+                        <TD CLASS="text">19703-018</TD>
+                        <TD CLASS="text">Paraguaçu Paulista</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">cristianojr2281@icloud.com</TD>
+                        <TD CLASS="text">(18) 99784-2552</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60722</TD>
+                        <TD CLASS="text">KAUA DE SOUSA VIEIRA 49250812841</TD>
+                        <TD CLASS="text">40.075.698/0001-29</TD>
+                        <TD CLASS="text">R CESARE PUGLIESI, 373, , Cidade Satélite Íris, </TD>
+                        <TD CLASS="text">13059-638</TD>
+                        <TD CLASS="text">Campinas</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60682</TD>
+                        <TD CLASS="text">KOALA ENERGY LTDA</TD>
+                        <TD CLASS="text">05.346.462/0001-89</TD>
+                        <TD CLASS="text">R ALBERTO FRANCISCO MULLER, 401, INDUSTRIAL SUL, </TD>
+                        <TD CLASS="text">89295-810</TD>
+                        <TD CLASS="text">Rio Negrinho</TD>
+                        <TD CLASS="text">SC</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(47) 3644-2028</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60716</TD>
+                        <TD CLASS="text">L. G. LINHARES WAGNER CIA LTDA</TD>
+                        <TD CLASS="text">08.058.856/0001-20</TD>
+                        <TD CLASS="text">RUA VOLUNTARIOS DA PATRIA, 514, , Centro, </TD>
+                        <TD CLASS="text">28030-260</TD>
+                        <TD CLASS="text">Campos dos Goytacazes</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60718</TD>
+                        <TD CLASS="text">LAERCIO DOS SANTOS ELEM MATERIAIS P</TD>
+                        <TD CLASS="text">07.399.551/0001-19</TD>
+                        <TD CLASS="text">R WILHELM FRIEDRICH LADWING, 43, , Jardim Clarice, </TD>
+                        <TD CLASS="text">05866-170</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60728</TD>
+                        <TD CLASS="text">LARA CENTRAL DE TRATAMENTO DE RESID</TD>
+                        <TD CLASS="text">57.543.001/0001-08</TD>
+                        <TD CLASS="text">AV GUARACIABA, 430, , Vila Carlina, </TD>
+                        <TD CLASS="text">09370-840</TD>
+                        <TD CLASS="text">Mauá</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60731</TD>
+                        <TD CLASS="text">LAZARO HENRIQUE COSTA</TD>
+                        <TD CLASS="text">07.598.652/0001-19</TD>
+                        <TD CLASS="text">R SALVADOR, 550, , Jardim Oratório, </TD>
+                        <TD CLASS="text">09381-030</TD>
+                        <TD CLASS="text">Mauá</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60736</TD>
+                        <TD CLASS="text">LEAO TUBOS, CONEXOES E PRODUTOS SID</TD>
+                        <TD CLASS="text">52.640.597/0001-32</TD>
+                        <TD CLASS="text">RUA CLESIO BENJAMIN DORETO, 156, , Distrito Empresarial de Sertão, </TD>
+                        <TD CLASS="text">14175-453</TD>
+                        <TD CLASS="text">Sertãozinho</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60671</TD>
+                        <TD CLASS="text">LIDER COSMETICOS E DISTRIBUICAO LTDA</TD>
+                        <TD CLASS="text">55.898.012/0001-77</TD>
+                        <TD CLASS="text">PRACA JOSE BASTOS        OSVALDO CR66  I, , Centro, </TD>
+                        <TD CLASS="text">45600-080</TD>
+                        <TD CLASS="text">Itabuna</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60723</TD>
+                        <TD CLASS="text">M C COM ACOS MANUT MAQUINAS LTDA ME</TD>
+                        <TD CLASS="text">08.379.834/0001-61</TD>
+                        <TD CLASS="text">AVENIDA JOAO ANTUNES RODRIGUES, 75, , Vila Nova Capão Bonito, </TD>
+                        <TD CLASS="text">18304-000</TD>
+                        <TD CLASS="text">Capão Bonito</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60697</TD>
+                        <TD CLASS="text">MACHADO UTILIDADES LTDA</TD>
+                        <TD CLASS="text">17.759.852/0001-60</TD>
+                        <TD CLASS="text">AV NORBERTO SCHWANTES, 88, CENTRO II, </TD>
+                        <TD CLASS="text">78635-000</TD>
+                        <TD CLASS="text">Água Boa</TD>
+                        <TD CLASS="text">MT</TD>
+                        <TD CLASS="text">machadoutilidades@hotmail.com</TD>
+                        <TD CLASS="text">(66) 3468-1927</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60627</TD>
+                        <TD CLASS="text">MAPRIBOR MATERIA PRIMA PARA INDUSTRIA DE BORRACHA</TD>
+                        <TD CLASS="text">00.657.302/0001-37</TD>
+                        <TD CLASS="text">BENEDITO DANIEL DE SOUZA, 94, LARANJEIRAS, </TD>
+                        <TD CLASS="text">07743-020</TD>
+                        <TD CLASS="text">Caieiras</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60702</TD>
+                        <TD CLASS="text">MAQ GEL COMERCIO DE REFRIGERACAO LTDA</TD>
+                        <TD CLASS="text">56.450.851/0001-90</TD>
+                        <TD CLASS="text">PRACA DUQUE DE CAXIAS, 163, CENTRO, </TD>
+                        <TD CLASS="text">13300-103</TD>
+                        <TD CLASS="text">Itu</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text">maqgel@uol.com.br</TD>
+                        <TD CLASS="text">(11) 4022-0869</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60721</TD>
+                        <TD CLASS="text">MARCOS V MELLO MAT CONSTRUCAO ME</TD>
+                        <TD CLASS="text">22.104.184/0001-72</TD>
+                        <TD CLASS="text">AV PROF LUIZ IGNACIO A MELLO, 6250, , Vila Divina Pastora, </TD>
+                        <TD CLASS="text">03294-200</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60642</TD>
+                        <TD CLASS="text">MARIA NORMA DA SILVA 00050949500</TD>
+                        <TD CLASS="text">33.065.712/0001-48</TD>
+                        <TD CLASS="text">RUA DA LAGOA 2           SOARES    177 A, , Centro, </TD>
+                        <TD CLASS="text">44913-000</TD>
+                        <TD CLASS="text">América Dourada</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60705</TD>
+                        <TD CLASS="text">MASDI MATERIAIS DE CONSTRUCAO LTDA</TD>
+                        <TD CLASS="text">36.181.192/0001-27</TD>
+                        <TD CLASS="text">RUA EDGARD BARBOSA, 1130, , Cidade Jardim Guapimirim, </TD>
+                        <TD CLASS="text">25943-395</TD>
+                        <TD CLASS="text">Guapimirim</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60648</TD>
+                        <TD CLASS="text">MATHEUS CESAR SANTOS ARAUJO</TD>
+                        <TD CLASS="text">28.435.895/0001-06</TD>
+                        <TD CLASS="text">TV ALVORADA              PIRAJA    68 ES, , Pirajá, </TD>
+                        <TD CLASS="text">41295-410</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60694</TD>
+                        <TD CLASS="text">MB COMERCIAL DE ARTIGOS E UTILIDADES LTDA</TD>
+                        <TD CLASS="text">32.280.238/0001-04</TD>
+                        <TD CLASS="text">RUA OSWALDO CRUZ, 319, RIO VERMELHO, LOJA 03</TD>
+                        <TD CLASS="text">41940-000</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text">financeiro@masterbahiautil.com.br</TD>
+                        <TD CLASS="text">(71) 99366-0283</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60700</TD>
+                        <TD CLASS="text">MEGATEX ATACADO E VAREJO LTDA</TD>
+                        <TD CLASS="text">29.143.742/0001-58</TD>
+                        <TD CLASS="text">AVENIDA SETE DE SETEMBRO, 895, CENTRO, EDIF ED OXAGUIAN LOJA 1</TD>
+                        <TD CLASS="text">40020-450</TD>
+                        <TD CLASS="text">Salvador</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text">andreholandaolive@gmail.com</TD>
+                        <TD CLASS="text">(73) 30262-0707</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60644</TD>
+                        <TD CLASS="text">MERCADINHO DA VO JOANA LTDA</TD>
+                        <TD CLASS="text">62.088.168/0001-58</TD>
+                        <TD CLASS="text">R JOAO FORTUNATO CALDAS  VILA OPERA300 R, , Centro, </TD>
+                        <TD CLASS="text">46800-000</TD>
+                        <TD CLASS="text">Ruy Barbosa</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60687</TD>
+                        <TD CLASS="text">MERITO NEGOCIOS E PARTICIPACOES S/A</TD>
+                        <TD CLASS="text">18.554.150/0001-02</TD>
+                        <TD CLASS="text">ALAMEDA OSCAR NIEMEYER, 288, VALE DO SERENO, SALA 503</TD>
+                        <TD CLASS="text">34006-049</TD>
+                        <TD CLASS="text">Nova Lima</TD>
+                        <TD CLASS="text">MG</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60664</TD>
+                        <TD CLASS="text">MILENA SOUZA DE OLIVEIRA</TD>
+                        <TD CLASS="text">33.494.084/0001-16</TD>
+                        <TD CLASS="text">PRACA DO COMERCIO        AGUADA NOV44  L, , Centro, </TD>
+                        <TD CLASS="text">44905-000</TD>
+                        <TD CLASS="text">Lapão</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60667</TD>
+                        <TD CLASS="text">OLIVIA DIAS BARBOZA DE SOUZA</TD>
+                        <TD CLASS="text">08.702.954/0001-58</TD>
+                        <TD CLASS="text">PRACA BENEDITO MINA      CENTRO    114 B, , Centro, </TD>
+                        <TD CLASS="text">46820-000</TD>
+                        <TD CLASS="text">Bonito</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60695</TD>
+                        <TD CLASS="text">PEJOMA BAZAR LTDA</TD>
+                        <TD CLASS="text">39.111.687/0001-78</TD>
+                        <TD CLASS="text">ESTRADA DO PIAI, 05097, SEPETIBA, </TD>
+                        <TD CLASS="text">23530-611</TD>
+                        <TD CLASS="text">Rio de Janeiro</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text">AUGUSTOSA@CONTABILSA.COM.BR</TD>
+                        <TD CLASS="text">(21) 3390-1626</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60735</TD>
+                        <TD CLASS="text">POLLI TERRAPLENAGEM CONSTRUCOES E E</TD>
+                        <TD CLASS="text">05.705.049/0001-63</TD>
+                        <TD CLASS="text">RUA BAPTISTA FORMAGGIO, 300, , Dois Córregos, </TD>
+                        <TD CLASS="text">13420-834</TD>
+                        <TD CLASS="text">Piracicaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60726</TD>
+                        <TD CLASS="text">PONTE P DEP MATS CONSTRUCAO LTDA</TD>
+                        <TD CLASS="text">05.689.366/0001-33</TD>
+                        <TD CLASS="text">ESTR DAS LAGRIMAS, 4100, , São João Clímaco, </TD>
+                        <TD CLASS="text">04244-000</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60690</TD>
+                        <TD CLASS="text">QUARTZO DISTRIBUICAO E COBRANCAS LTDA</TD>
+                        <TD CLASS="text">56.914.908/0001-65</TD>
+                        <TD CLASS="text">Rua RUA JOSE EDUARDO, 167, ESTANCIA COMANDANTE BARROS, </TD>
+                        <TD CLASS="text">13244-240</TD>
+                        <TD CLASS="text">Jarinu</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60654</TD>
+                        <TD CLASS="text">R.L.MERCADO E VARIEDADES LTDA</TD>
+                        <TD CLASS="text">57.440.290/0001-01</TD>
+                        <TD CLASS="text">RUA PEDRO SUZART         BRASILIA  1559F, , Brasília, </TD>
+                        <TD CLASS="text">44088-276</TD>
+                        <TD CLASS="text">Feira de Santana</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60714</TD>
+                        <TD CLASS="text">REQUIPH I C EQUIP HIDRAULICOS LTDA</TD>
+                        <TD CLASS="text">54.898.614/0001-61</TD>
+                        <TD CLASS="text">R JOAO FRANCO DE OLIVEIRA, 1831, , Unileste, </TD>
+                        <TD CLASS="text">13422-160</TD>
+                        <TD CLASS="text">Piracicaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60677</TD>
+                        <TD CLASS="text">ROMULO MIRANDA BEZERRA MATIAS</TD>
+                        <TD CLASS="text">086.397.884-30</TD>
+                        <TD CLASS="text">SITIO CARNAUBA, , ZONA RURAL, </TD>
+                        <TD CLASS="text">56220-000</TD>
+                        <TD CLASS="text">Bodocó</TD>
+                        <TD CLASS="text">PE</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(87) 99668-0665</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60696</TD>
+                        <TD CLASS="text">ROTIV COMERCIO VAREJISTA LTDA</TD>
+                        <TD CLASS="text">40.515.210/0001-37</TD>
+                        <TD CLASS="text">RUA MARQUES DE PARANAGUA, 63, CENTRO, TERREO</TD>
+                        <TD CLASS="text">45653-000</TD>
+                        <TD CLASS="text">Ilhéus</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text">requintecasa.andre@hotmail.com</TD>
+                        <TD CLASS="text">(73) 3612-1191</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60712</TD>
+                        <TD CLASS="text">RRC PERFIS E CALHAS LTDA.</TD>
+                        <TD CLASS="text">36.177.923/0001-60</TD>
+                        <TD CLASS="text">RUA DOS CONTINENTES, 265, , Vila Ré, </TD>
+                        <TD CLASS="text">03668-010</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60738</TD>
+                        <TD CLASS="text">S R SILVA MATERIAL CONSTRUCAO ME</TD>
+                        <TD CLASS="text">14.066.407/0001-26</TD>
+                        <TD CLASS="text">R RIQUEZA, 299, , Vila Poupança, </TD>
+                        <TD CLASS="text">06525-055</TD>
+                        <TD CLASS="text">Santana de Parnaíba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60715</TD>
+                        <TD CLASS="text">S T ARTEFATOS CIMENTO ME</TD>
+                        <TD CLASS="text">14.993.016/0001-57</TD>
+                        <TD CLASS="text">R DOUTOR FONTES JUNIOR, 1229, , Maria Áurea, </TD>
+                        <TD CLASS="text">12420-560</TD>
+                        <TD CLASS="text">Pindamonhangaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60686</TD>
+                        <TD CLASS="text">SALIS IND DE CONF LTDA.</TD>
+                        <TD CLASS="text">91.489.773/0001-39</TD>
+                        <TD CLASS="text">RUA DIONISIO LORANDI, 669, ., CRUZEIRO, </TD>
+                        <TD CLASS="text">95074-490</TD>
+                        <TD CLASS="text">Caxias do Sul</TD>
+                        <TD CLASS="text">RS</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(54) 3212-1098</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60698</TD>
+                        <TD CLASS="text">SILVA E FRANCA UTILIDADES DOMESTICAS LTDA</TD>
+                        <TD CLASS="text">11.114.693/0001-60</TD>
+                        <TD CLASS="text">R PE JERONIMO FONSECA, 78, ALTO DAS MERCES, </TD>
+                        <TD CLASS="text">37270-000</TD>
+                        <TD CLASS="text">Campo Belo</TD>
+                        <TD CLASS="text">MG</TD>
+                        <TD CLASS="text">KITCHENCAMPOBELO@YAHOO.COM.BR</TD>
+                        <TD CLASS="text">(35) 3831-1533</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60724</TD>
+                        <TD CLASS="text">STEFANI METAL IND COM LTDA ME</TD>
+                        <TD CLASS="text">10.407.035/0002-84</TD>
+                        <TD CLASS="text">ESTM RDP 258, 300, , Parque Industrial Augusto Scar, </TD>
+                        <TD CLASS="text">13399-500</TD>
+                        <TD CLASS="text">Rio das Pedras</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60643</TD>
+                        <TD CLASS="text">SUPER VITA COMERCIO DE ALIMENTOS LTDA</TD>
+                        <TD CLASS="text">09.559.031/0001-51</TD>
+                        <TD CLASS="text">PRAIA DOM FLORENCIO      CENTRO    01A J, , Centro, </TD>
+                        <TD CLASS="text">45470-000</TD>
+                        <TD CLASS="text">Jiquiriçá</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60632</TD>
+                        <TD CLASS="text">SUPERMERCADOS ALVORADA LTDA</TD>
+                        <TD CLASS="text">17.833.301/0001-07</TD>
+                        <TD CLASS="text">AV.: VINTE E DOIS DE MAIO, 9000, ENGENHO VELHO, </TD>
+                        <TD CLASS="text">24803-000</TD>
+                        <TD CLASS="text">Itaboraí</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(21) 3715-1320</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60684</TD>
+                        <TD CLASS="text">TABATA CONFECCOES EM COURO LTDA</TD>
+                        <TD CLASS="text">03.595.203/0001-66</TD>
+                        <TD CLASS="text">RUA PARALELA OESTE, 1293, ., PERIMETRAL, </TD>
+                        <TD CLASS="text">99150-000</TD>
+                        <TD CLASS="text">Marau</TD>
+                        <TD CLASS="text">RS</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(54) 3342-7899</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60707</TD>
+                        <TD CLASS="text">THERMOFORM SOLUCOES EM EPS LTDA</TD>
+                        <TD CLASS="text">19.406.174/0001-87</TD>
+                        <TD CLASS="text">R CASIMIRO DE ABREU, 52, , Moquetá, </TD>
+                        <TD CLASS="text">26285-300</TD>
+                        <TD CLASS="text">Nova Iguaçu</TD>
+                        <TD CLASS="text">RJ</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60727</TD>
+                        <TD CLASS="text">TIAGO TAVARES ALMEIDA ME</TD>
+                        <TD CLASS="text">10.234.574/0001-88</TD>
+                        <TD CLASS="text">AV EDUARDO PEREIRA RAMOS, 369, , Jardim São Jorge, </TD>
+                        <TD CLASS="text">04432-000</TD>
+                        <TD CLASS="text">São Paulo</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60733</TD>
+                        <TD CLASS="text">TORNOMETAIS INDUSTRIA E COMERCIO DE</TD>
+                        <TD CLASS="text">56.953.390/0001-79</TD>
+                        <TD CLASS="text">AVENIDA DOUTOR CENOBELINO DE BARROS, , Parque Industrial, </TD>
+                        <TD CLASS="text">15030-000</TD>
+                        <TD CLASS="text">São José do Rio Preto</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60711</TD>
+                        <TD CLASS="text">URBANIZE EMPREENDIMENTOS IMOBILIARI</TD>
+                        <TD CLASS="text">19.635.407/0001-13</TD>
+                        <TD CLASS="text">R JOSE BONIFACIO, 367, , Centro, </TD>
+                        <TD CLASS="text">14680-000</TD>
+                        <TD CLASS="text">Jardinópolis</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60662</TD>
+                        <TD CLASS="text">VANDERLEI NOVAIS EVANGELISTA 89292804553</TD>
+                        <TD CLASS="text">13.114.085/0001-80</TD>
+                        <TD CLASS="text">COMUNIDADE POVOADO DE ARCRURALCAMPO750 S, , Centro, </TD>
+                        <TD CLASS="text">46990-000</TD>
+                        <TD CLASS="text">Souto Soares</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60639</TD>
+                        <TD CLASS="text">VERA LUCIA CARDOSO LTDA</TD>
+                        <TD CLASS="text">29.532.514/0001-70</TD>
+                        <TD CLASS="text">ROD BR 367 KM 77         COROA VERM201 S, , Centro, </TD>
+                        <TD CLASS="text">45807-000</TD>
+                        <TD CLASS="text">Santa Cruz Cabrália</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60626</TD>
+                        <TD CLASS="text">VILLE COSMETICOS LTDA</TD>
+                        <TD CLASS="text">22.274.144/0001-79</TD>
+                        <TD CLASS="text">AV ELIAS MALUF, 1624, WANEL VILLE, </TD>
+                        <TD CLASS="text">18055-215</TD>
+                        <TD CLASS="text">Sorocaba</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60653</TD>
+                        <TD CLASS="text">VINICIUS SOUZA SODRE FILHO 03237161560</TD>
+                        <TD CLASS="text">37.936.647/0001-30</TD>
+                        <TD CLASS="text">ALAMEDA JOAO DAMASCENO SACENTRO    S/N P, , Centro, </TD>
+                        <TD CLASS="text">44830-000</TD>
+                        <TD CLASS="text">Piritiba</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60678</TD>
+                        <TD CLASS="text">WORLD VEGAN INDUSTRIA DE ALIMENTOS VEGANOS LTDA</TD>
+                        <TD CLASS="text">47.351.954/0001-02</TD>
+                        <TD CLASS="text">RUA DAS PAPOULAS, 180, JARDIM DAS BANDEIRAS, </TD>
+                        <TD CLASS="text">13050-084</TD>
+                        <TD CLASS="text">Campinas</TD>
+                        <TD CLASS="text">SP</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">(19) 3838-8720</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                                    <TR>
+                        <TD CLASS="text">60666</TD>
+                        <TD CLASS="text">Z S COMERCIO DE PRODUTOS FARMACEUTICOS L</TD>
+                        <TD CLASS="text">61.695.499/0001-93</TD>
+                        <TD CLASS="text">RUA ALBERTO COIMBRA      SANDRA REG224 B, , Sandra Regina, </TD>
+                        <TD CLASS="text">47802-002</TD>
+                        <TD CLASS="text">Barreiras</TD>
+                        <TD CLASS="text">BA</TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text"></TD>
+                        <TD CLASS="text">23/09/2025</TD>
+                    </TR>
+                            </TABLE>
+                    </BODY>
+        </HTML>
+                    </BODY>
+        </HTML>
+        
